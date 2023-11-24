@@ -21,7 +21,7 @@
 
 }
 .span{
-     background:orange;
+     background-color:orange;
 }
 body{
     color: var(--dark);
