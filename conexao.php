@@ -1,7 +1,7 @@
 <?php
-	$usuario = "sql10660694";
-	$senha = "MTZU1QeAI3";
-	$database = "sql10660694";
+	$usuario = "sql10665919";
+	$senha = "mgzxDa5Pv5";
+	$database = "sql10665919";
 	$host = "sql10.freesqldatabase.com";
 	 
 	
@@ -12,9 +12,11 @@
 				
 			}
 			
-			$usuario = "sql10660694";
-	$senha = "MTZU1QeAI3";
-	$database = "sql10660694";
+		/* Conexão caso tenha o cadastr:( */	
+			
+	$usuario = "sql10665919";
+	$senha = "mgzxDa5Pv5";
+	$database = "sql10665919";
 	$host = "sql10.freesqldatabase.com";
 	 
 	
